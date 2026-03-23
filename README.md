@@ -6,7 +6,7 @@ A frontend engineer, lifelong learner, and currently diving deep into TypeScript
 After 12 years in frontend engineering, I’ve learned one universal truth: **console.log() is eternal.**
 
 - 📫 How to reach me: **satishgowda28@gmail.com**
-- ⚡ Check out my blog article: [Medium:satishgowda]([https://medium.com/@STYLABSHQ/styfi-loves-webpack-how-we-implemented-this-killer-bundler-4fd330249acb](https://medium.com/@satishgowda))
+- ⚡ Check out my blog article: [Medium: satishgowda](https://medium.com/@satishgowda)
 - 🔭 Currently working on my project [AI-Powered Job Tracker](https://github.com/satishgowda28/ai_powered_job_tracker) and levelling up myself. It’s my only job at the moment, perks of being jobless! 😅
 - 🌱 I’m currently learning: [Golang](https://go.dev/)
 
